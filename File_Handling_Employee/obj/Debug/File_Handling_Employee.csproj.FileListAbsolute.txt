@@ -1,0 +1,7 @@
+C:\Users\SACHIN KUMAR\source\repos\File_Handling_Employee\File_Handling_Employee\bin\Debug\File_Handling_Employee.exe.config
+C:\Users\SACHIN KUMAR\source\repos\File_Handling_Employee\File_Handling_Employee\bin\Debug\File_Handling_Employee.exe
+C:\Users\SACHIN KUMAR\source\repos\File_Handling_Employee\File_Handling_Employee\bin\Debug\File_Handling_Employee.pdb
+C:\Users\SACHIN KUMAR\source\repos\File_Handling_Employee\File_Handling_Employee\obj\Debug\File_Handling_Employee.csproj.AssemblyReference.cache
+C:\Users\SACHIN KUMAR\source\repos\File_Handling_Employee\File_Handling_Employee\obj\Debug\File_Handling_Employee.csproj.CoreCompileInputs.cache
+C:\Users\SACHIN KUMAR\source\repos\File_Handling_Employee\File_Handling_Employee\obj\Debug\File_Handling_Employee.exe
+C:\Users\SACHIN KUMAR\source\repos\File_Handling_Employee\File_Handling_Employee\obj\Debug\File_Handling_Employee.pdb
